@@ -30,4 +30,3 @@ puts "ruby" || 2008
 @variable ||= "default value"    # better
 
 puts @variable
-
