@@ -1,0 +1,1156 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parseAsDate"
+			],
+			[
+				"String",
+				"StringUtil"
+			],
+			[
+				"load",
+				"loadFromUrl"
+			],
+			[
+				"qu",
+				"quick_pay"
+			],
+			[
+				"fi",
+				"findViewById"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"_",
+				"HEADER_MIDDLE"
+			],
+			[
+				"allAcc",
+				"allAccounts"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"showerr",
+				"showErrorAndFinish"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"Accou",
+				"AccountsActivity"
+			],
+			[
+				"billpay",
+				"billPayAddResponse"
+			],
+			[
+				"getNumber",
+				"getNumberOfRemainingPayments"
+			],
+			[
+				"get",
+				"getActivity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/android.sublime-build",
+	"command_palette":
+	{
+		"height": 248.0,
+		"selected_items":
+		[
+			[
+				"syntax j",
+				"Set Syntax: JSON"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"gitd",
+				"Git: Diff All"
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Add..."
+			],
+			[
+				"git d",
+				"Git: Diff All"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"java ",
+				"Set Syntax: Java"
+			],
+			[
+				"gitbr",
+				"Git: Change Branch"
+			],
+			[
+				"gitbra",
+				"Git: Change Branch"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: Java"
+			],
+			[
+				"gitcom",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git",
+				"Git: Add..."
+			],
+			[
+				"git: st",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"packt",
+				"Package Control: Remove Package"
+			],
+			[
+				"show",
+				"Show TODOs in project and open files"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"text-",
+				"Snippet: text-view"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mattlangreder/.ssh/id_rsa.pub",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/StringUtil.java",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/values/strings.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/proguard-configuration-template.txt",
+		"/Users/mattlangreder/workspaces/git/Android/App/bin/proguard/mapping.txt",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPaySendMoneyActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPaySendTransactionActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPayAddRecipientActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/IntentKeys.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/QuickPayDetailView.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/QuickPayService.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPayActivityActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/QuickPayActivityItem.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/LoginActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/QuickPayPendingTransaction.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/ManagedContentActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/ContactUsActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/application_config.yml",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/chase/brand.yml",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/managed_content_layout.xml",
+		"/Users/mattlangreder/workspaces/git/Android/.gitignore",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/jpm/res/layout/contact_us.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/chase/res/layout/contact_us.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/QuickDepositAccount.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/AdOfferDetailsActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/JPService.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/PaymentsAndTransfersHomeActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/payments_and_transfers.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/AccountRewardsDetailActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/quickdeposit/QuickDepositAccountsResponse.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/AdapterGenerator.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickDepositStartActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/AccountsActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/JustSayYesService.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/jpm/brand.yml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/TickerValueTextView.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/billpay/BillPayPayeeAddResponse.java",
+		"/Users/mattlangreder/workspaces/git/Android/build/build_helper.rb",
+		"/Users/mattlangreder/workspaces/git/Android/Rakefile",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/QuickDepositAccountsResponse.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/Authorization.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/Location.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/simple_list_item.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/proguard.cfg",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/QuickDeposit.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/billpay/BillPayAddResponse.java",
+		"/Users/mattlangreder/Downloads/isec_tools/isec_security_test_suite/security_suite_changes.diff",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/JPActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/TestApp/assets/quick_pay_todo_detail.json",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/quickpay/QuickPayTodoListTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/Account.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/assets/application_config.properties",
+		"/Users/mattlangreder/workspaces/git/Android/App/keystore.properties",
+		"/Users/mattlangreder/workspaces/git/Android/App/AndroidManifest-template.xml",
+		"/Users/mattlangreder/workspaces/git/Android/TestApp/src/com/chase/sig/test/unit/QuickPayServiceTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/TestApp/assets/quick_pay_send_money_submit.json",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/quickpay/QuickPayRequestMoneyActivityTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/quickpay/QuickPayViewDetailActivityTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/AbstractHistoryActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/quickpay/QuickPayActivityListScreen.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/AccountDetailActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/TestApp/src/com/chase/sig/test/unit/QuickPayManageRecipientServiceTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/quickdeposit/QuickDepositService.java",
+		"/Users/mattlangreder/workspaces/git/Android/TestApp/assets/quick_pay_todo_list.json",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Volumes/Mac OS X Install ESD/._Instructions.localized",
+		"/Users/mattlangreder/workspaces/git/Android/tools/mockey_def_depot/QP - Accept Money.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/billpay/BillPayService.java",
+		"/Users/mattlangreder/mbb_gwo_migration.patch",
+		"/Users/mattlangreder/Desktop/GWO_url_list.txt",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/quickpay/QuickPayTransactionListResponse.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPayEditRecipientBase.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPayEditRecipientActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/PaymentsAndTransfersScreen.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/quickpay/QuickPayTodoListScreen.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/quickpay/QuickPayDeclineTransactionTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/quickpay/QuickPayPendingTransactionResponse.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/QuickPayManageRecipientService.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/QuickPayActivityType.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/QuickPayViewDetailActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/quickpay/QuickPayActivityResponse.java",
+		"/Users/mattlangreder/Desktop/tech_spec_thoughts.txt",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/ad_view.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/wire/WireNewService.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/.review_z156747.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/AccountActivityActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/PositionDetailActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/EPayStartActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/LogOutActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/DisclosuresDetailActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/DisclosuresActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/tools/mockey_def_depot/Ad View Offer Details.xml",
+		"/Users/mattlangreder/workspaces/git/Android/tools/mockey_def_depot/Ad List.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/WatchListActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/tools/nativedriver/android/sample-aut/simplelayouts/AndroidManifest.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/domain/AccountActivity.java",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/JSONClient.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayPayeeSearchResultScreen.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/quick_pay_add_recipient.xml",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/BillPayTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/billpay/BillPayPayeeAddValidationRequest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/TeamInfoActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayPayeeEditScreen.java",
+		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayHomeScreen.java",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/mattlangreder/workspaces/git/Android/App/res/layout/quick_pay_activity.xml",
+		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/suppressions.xml",
+		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/imports.txt",
+		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/checkstyle.txt",
+		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/java.header",
+		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/suppression.txt",
+		"/Users/mattlangreder/workspaces/git/Android/App/.classpath",
+		"/Users/mattlangreder/workspaces/git/Android/FunctionalTests2/.classpath",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/HttpRequest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/BillPayPayeeImageReviewActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/BillPayPayeeAddVerifyActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/BillPayHomeActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/FunctionalTests2/src/com/chase/sig/android/activity/BillPayTest.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/HomeActivity.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/AbstractDetailRow.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/DetailRowWithSubItem.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/AddressDetailRow.java",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/detail_with_subtext.xml",
+		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/address_detail_row.xml"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"camera",
+			"invoice",
+			"FROM_CONTACTS_ACTIVITY",
+			"QuickPayRecipient",
+			"password",
+			"D/Chase   (  550): ",
+			"formatDateIntoUglyGWOFormat",
+			"DATE_FORMAT_GWS",
+			"DATE_FORMAT_MBB",
+			"date",
+			"getact",
+			"displayDate",
+			"populateActivityTypes",
+			"setupView",
+			"onchase",
+			"loadActivityDetailsResponseFrom",
+			"date",
+			"isFinishing",
+			"cont",
+			"empty_arrow",
+			"empyt_arrow",
+			"super",
+			"\\",
+			"html",
+			"fromhtml",
+			"getresources",
+			"quick_pay_label",
+			"prog",
+			"1",
+			"location",
+			"quickdepositstart",
+			"menu",
+			"menuitem",
+			"proguar",
+			"gw​s/onl​ine/s​ecure​/bill​pay/p​aymen​t/v20​11051​5/add​.acti​on",
+			"solo.sendkey",
+			"driver.send",
+			"jplog",
+			"NativeDriverTests",
+			"qf7",
+			"jplog",
+			"generateQDAccountWithAvailableBalanceList",
+			"JPMCAccountDetailHashKey",
+			"nick",
+			"mask",
+			"generateQDAccountWithAvailableBalanceList",
+			"java.util.LinkedHashMap",
+			"com.sig.android",
+			"com.chase.sig.android.c.ab",
+			"QuickDepositStartActivity.a",
+			"com.chase.sig.android.b.d.b",
+			"com.chase.sig.android.b.d.g",
+			"java.util.LinkedHashMap",
+			"error_camera_not_capable_of_quick_deposit",
+			"your camera",
+			"camera",
+			"get_device_id",
+			"uat",
+			"declineReason",
+			"recipient",
+			"name",
+			"kindl",
+			"86",
+			"86db",
+			"testShouldShowPayLoanWhenThereIsALoanAccountWithCredit",
+			"testShouldAcceptMoneyNavigateToConfirmScreen",
+			"person-to-person",
+			"person to person",
+			"quickpay",
+			"req",
+			"requestMoney{    \"contentTitle\": \"QuickPay - To Do List\",    \"contentHeader1\": \"QuickPay - To Do List (4)\",    \"contentEmptyMessage\": \"You don't have any payments to accept or send.\",    \"todoItem\" : [        {            \"header\": \"Payment from Montgomery Burns\",            \"actionLabel\": \"Accept Money\",            \"amount\": \"111.11\",            \"sublabel\": \"Received 03/08/2010\",            \"declineLabel\": \"Decline Money\",            \"id\": 111111,            \"typeString\": \"MoneyReceived\",            \"typeLabel\": \"Accept Money\"         },        {            \"header\": \"Payment from Montgomery Burns (Bus)\",            \"actionLabel\": \"Accept Money\",            \"amount\": \"111.22\",            \"sublabel\": \"Received 03/08/2010\",            \"declineLabel\": \"Decline Money\",            \"id\": 111122,            \"typeString\": \"MoneyReceived\",            \"typeLabel\": \"Accept Money\"         },        {            \"header\": \"Request from Homer Simpson\",            \"actionLabel\": \"Send Money\",            \"amount\": \"222.11\",            \"sublabel\": \"Received 03/09/2010\",            \"declineLabel\": \"Decline Request\",            \"id\": 222211,            \"typeString\": \"RequestForMoney\",            \"typeLabel\": \"Request for Money\"         },        {            \"header\": \"Request from Homer Simpson (Bus)\",            \"actionLabel\": \"Send Money\",            \"amount\": \"222.22\",            \"sublabel\": \"Received 03/09/2010\",            \"declineLabel\": \"Decline Request\",            \"id\": 222222,            \"typeString\": \"RequestForMoney\",            \"typeLabel\": \"Request for Money\"         }     ],    \"defaultAccount\": {        \"displayName\": \"FREE EXTRA CKING(...2298)\",        \"id\": \"1545739\",        \"maskedAccountNumber\": \"(...2298)\",        \"nickname\": \"FREE EXTRA CKING\",        \"sourceIndicator\": \"ChaseAccount\"     },    \"invoiceMaximumPayment\": 10000,    \"invoiceMinimumPayment\": 0.01,    \"maximumPayment\": 2000,    \"minimumPayment\": 0.01,    \"earliestSendOnDate\": \"20100420\",    \"actions\": {        \"sendMoney\" : \"yes\" ,        \"requestMoney\" : \"yes\" ,        \"acceptMoney\" : \"yes\" ,        \"viewActivity\" : \"yes\" ,        \"viewTodo\" : \"yes\" , \"sendMoneyToATM\" : \"yes\"    },    \"accountMessage\": \"You may need to activate your service. Please log on to www.chase.com/QuickPay to make sure you've verified your e-mail address and set up a valid Pay To account.\",    \"totalItems\": 4,    \"nextPage\": 2,    \"thisPage\": 1 }",
+			"requestMoney",
+			"yes",
+			"testShouldDiplayRequestMoneyInitialScreen",
+			"yes",
+			"QP Native Trx Submit",
+			"\"",
+			"testShouldCreateAddRecipientJSONRequest",
+			"\"",
+			"values",
+			"getDetailValues",
+			"account_detail_nsaf_withdrawal_counter",
+			"nsaf",
+			"1 suzanne",
+			"tolowercase",
+			"entitlement",
+			"currentPage",
+			"https://confluence.uk.jpmorgan.com/confluence/display/sig/GWO+-+QuickPay+List+Transactions",
+			"testShouldDiplayActivityDetailsForMoneySent",
+			"testShouldDiplayRequestMoneyInitialScreen",
+			"testShouldAcceptMoneyNavigateToConfirmScreen",
+			"testShouldShowPendingTodoItems",
+			"invoice",
+			"invoiceNumber",
+			"isInvoiceRequest",
+			"suzann",
+			"integr",
+			"testShouldDiplayActivityDetails",
+			"suite",
+			"run_nat",
+			"testShouldShowPendingTodoItems",
+			"testShouldDisplayVerificationScreenWhenClickNext",
+			"cwf",
+			"testShouldDisplayVerificationScreenWhenClickNext",
+			"testDeclineRequestForMoney",
+			"testShouldDiplayRequestMoneyInitialScreen",
+			"head",
+			"duedate",
+			"reci",
+			"baehr",
+			"due",
+			"repeat",
+			"payfrom",
+			"payfr",
+			"path_quickpay_resend_payment",
+			"phone",
+			"chase",
+			"path_quickpay_activity",
+			"QuickPayPendingTransactionResponse",
+			"QuickPayActivityResponse",
+			"quicpayactivity",
+			"head",
+			"path_quickpay_resend_payment",
+			"alignBottom",
+			"animate",
+			"path_quickpay_recipients_list",
+			"path_quickpay_delete_recipient",
+			"ecd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"'",
+			"QuickPayTransactionListResponse",
+			"QuickPayPendingTransactionResponse",
+			"path_quickpay",
+			"if (",
+			"setNextButtonBehavior",
+			"securityTokenEdit1",
+			"schedu",
+			"payeeInfo.getMerchantPayee()",
+			"BILLPAY_MESSAGE",
+			"isFromMerchantDirectory",
+			"IntentKeys.SELECTED_ACCOUNT_ID",
+			"payeeNickName",
+			"IntentKeys.SELECTED_ACCOUNT_ID",
+			"getResources().",
+			"payee.getStatus()",
+			"postalCode",
+			"postalcode",
+			"postalCode",
+			"width",
+			"lay",
+			"dummyimage",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"jpact",
+				"App/src/com/chase/sig/android/activity/JPActivity.java"
+			],
+			[
+				"pro",
+				"App/config/template/proguard-configuration-template.txt"
+			],
+			[
+				"intet",
+				"App/src/com/chase/sig/android/activity/IntentKeys.java"
+			],
+			[
+				"quickpayadd",
+				"App/src/com/chase/sig/android/activity/QuickPayAddRecipientActivity.java"
+			],
+			[
+				"quickpaysendtrans",
+				"App/src/com/chase/sig/android/activity/QuickPaySendTransactionActivity.java"
+			],
+			[
+				"quickpaysend",
+				"App/src/com/chase/sig/android/activity/QuickPaySendMoneyActivity.java"
+			],
+			[
+				"loginact",
+				"App/src/com/chase/sig/android/activity/LoginActivity.java"
+			],
+			[
+				"stringut",
+				"App/src/com/chase/sig/android/util/StringUtil.java"
+			],
+			[
+				"quickpayactivityitem",
+				"App/src/com/chase/sig/android/domain/QuickPayActivityItem.java"
+			],
+			[
+				"quicpapendingtran",
+				"App/src/com/chase/sig/android/domain/QuickPayPendingTransaction.java"
+			],
+			[
+				"quickpayactivityactivity",
+				"App/src/com/chase/sig/android/activity/QuickPayActivityActivity.java"
+			],
+			[
+				"qpserv",
+				"App/src/com/chase/sig/android/service/QuickPayService.java"
+			],
+			[
+				"managedcont",
+				"App/src/com/chase/sig/android/activity/ManagedContentActivity.java"
+			],
+			[
+				"qpdetailv",
+				"App/src/com/chase/sig/android/view/QuickPayDetailView.java"
+			],
+			[
+				"quicpaydetailac",
+				"App/src/com/chase/sig/android/activity/QuickPayViewDetailActivity.java"
+			],
+			[
+				"managed",
+				"App/config/template/res/layout/managed_content_layout.xml"
+			],
+			[
+				"brand",
+				"App/config/chase/brand.yml"
+			],
+			[
+				"stri",
+				"App/config/template/res/values/strings.xml"
+			],
+			[
+				"applic",
+				"App/config/application_config.yml"
+			],
+			[
+				"managedcontent",
+				"App/src/com/chase/sig/android/activity/ManagedContentActivity.java"
+			],
+			[
+				"contact_us",
+				"App/config/jpm/res/layout/contact_us.xml"
+			],
+			[
+				"contactus",
+				"App/src/com/chase/sig/android/activity/ContactUsActivity.java"
+			],
+			[
+				"appl",
+				"App/config/application_config.yml"
+			],
+			[
+				"string",
+				"App/config/template/res/values/strings.xml"
+			],
+			[
+				"payments_and_transfers",
+				"App/config/template/res/layout/payments_and_transfers.xml"
+			],
+			[
+				"paymentandtran",
+				"App/src/com/chase/sig/android/activity/PaymentsAndTransfersHomeActivity.java"
+			],
+			[
+				"jpser",
+				"App/src/com/chase/sig/android/service/JPService.java"
+			],
+			[
+				"justsa",
+				"App/src/com/chase/sig/android/service/JustSayYesService.java"
+			],
+			[
+				"adofferdetailsactivity",
+				"App/src/com/chase/sig/android/activity/AdOfferDetailsActivity.java"
+			],
+			[
+				"accountsact",
+				"App/src/com/chase/sig/android/activity/AccountsActivity.java"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				".rb",
+				"build/build_helper.rb"
+			],
+			[
+				"quickdep",
+				"App/src/com/chase/sig/android/service/quickdeposit/QuickDepositAccountsResponse.java"
+			],
+			[
+				"quickdepositaccous",
+				"App/src/com/chase/sig/android/domain/QuickDepositAccountsResponse.java"
+			],
+			[
+				"billpayres",
+				"App/src/com/chase/sig/android/service/billpay/BillPayPayeeAddResponse.java"
+			],
+			[
+				"quickdepstartact",
+				"App/src/com/chase/sig/android/activity/QuickDepositStartActivity.java"
+			],
+			[
+				"simple_",
+				"App/config/template/res/layout/simple_list_item.xml"
+			],
+			[
+				"progua",
+				"App/config/template/proguard-configuration-template.txt"
+			],
+			[
+				"adapter",
+				"App/src/com/chase/sig/android/util/AdapterGenerator.java"
+			],
+			[
+				"quickde",
+				"App/src/com/chase/sig/android/domain/QuickDeposit.java"
+			],
+			[
+				"quickdeposita",
+				"App/src/com/chase/sig/android/service/quickdeposit/QuickDepositAccountsResponse.java"
+			],
+			[
+				"proguard",
+				"App/config/template/proguard-configuration-template.txt"
+			],
+			[
+				"build_",
+				"build/build_helper.rb"
+			],
+			[
+				"prog",
+				"App/proguard.cfg"
+			],
+			[
+				"appli",
+				"App/config/application_config.yml"
+			],
+			[
+				"",
+				"Rakefile"
+			],
+			[
+				"strings",
+				"App/config/template/res/values/strings.xml"
+			],
+			[
+				"pesponse",
+				"App/src/com/chase/sig/android/service/billpay/BillPayAddResponse.java"
+			],
+			[
+				"rak",
+				"Rakefile"
+			],
+			[
+				"app",
+				"App/config/application_config.yml"
+			],
+			[
+				"ke",
+				"App/keystore.properties"
+			],
+			[
+				"quick_pay_todo_detail",
+				"TestApp/assets/quick_pay_todo_detail.json"
+			],
+			[
+				"quickpayactivity",
+				"App/src/com/chase/sig/android/activity/QuickPayActivityActivity.java"
+			],
+			[
+				"android",
+				"App/AndroidManifest-template.xml"
+			],
+			[
+				"quick_pay_todo",
+				"TestApp/assets/quick_pay_todo_detail.json"
+			],
+			[
+				"quickpayser",
+				"App/src/com/chase/sig/android/service/QuickPayService.java"
+			],
+			[
+				"quick_pay_send_",
+				"TestApp/assets/quick_pay_send_money_submit.json"
+			],
+			[
+				"account",
+				"App/src/com/chase/sig/android/domain/Account.java"
+			],
+			[
+				"quickpaytodolistscreen",
+				"NativeDriverTests/src/com/chase/sig/android/activity/screens/quickpay/QuickPayTodoListScreen.java"
+			],
+			[
+				"paymentsandtransfersscreen",
+				"NativeDriverTests/src/com/chase/sig/android/activity/screens/PaymentsAndTransfersScreen.java"
+			],
+			[
+				"quickpayeditrecipientactivity",
+				"App/src/com/chase/sig/android/activity/QuickPayEditRecipientActivity.java"
+			],
+			[
+				"editre",
+				"App/src/com/chase/sig/android/activity/QuickPayEditRecipientBase.java"
+			],
+			[
+				"accountsac",
+				"App/src/com/chase/sig/android/activity/AccountsActivity.java"
+			],
+			[
+				"quickdepositser",
+				"App/src/com/chase/sig/android/service/quickdeposit/QuickDepositService.java"
+			],
+			[
+				"billpayser",
+				"App/src/com/chase/sig/android/service/billpay/BillPayService.java"
+			],
+			[
+				"applica",
+				"App/config/application_config.yml"
+			],
+			[
+				"quickpaypendingtransactionresponse",
+				"App/src/com/chase/sig/android/service/quickpay/QuickPayPendingTransactionResponse.java"
+			],
+			[
+				"quickpaytransactionlistresponse",
+				"App/src/com/chase/sig/android/service/quickpay/QuickPayTransactionListResponse.java"
+			],
+			[
+				"quickpayactivityre",
+				"App/src/com/chase/sig/android/service/quickpay/QuickPayActivityResponse.java"
+			],
+			[
+				"quickpayactivitytype",
+				"App/src/com/chase/sig/android/domain/QuickPayActivityType.java"
+			],
+			[
+				"jpervic",
+				"App/src/com/chase/sig/android/service/JPService.java"
+			],
+			[
+				"quickpayserv",
+				"App/src/com/chase/sig/android/service/QuickPayService.java"
+			],
+			[
+				"ad_",
+				"App/config/template/res/layout/ad_view.xml"
+			],
+			[
+				"ad_vie",
+				"App/config/template/res/layout/ad_view.xml"
+			],
+			[
+				"str",
+				"App/config/template/res/values/strings.xml"
+			],
+			[
+				"disclosuresdetailactivity",
+				"App/src/com/chase/sig/android/activity/DisclosuresDetailActivity.java"
+			],
+			[
+				"disclosuresactivity",
+				"App/src/com/chase/sig/android/activity/DisclosuresActivity.java"
+			],
+			[
+				"strin",
+				"App/config/template/res/values/strings.xml"
+			],
+			[
+				"logout",
+				"App/src/com/chase/sig/android/activity/LogOutActivity.java"
+			],
+			[
+				"conta",
+				"App/src/com/chase/sig/android/activity/ContactUsActivity.java"
+			],
+			[
+				"manife",
+				"App/AndroidManifest-template.xml"
+			],
+			[
+				"and",
+				"tools/nativedriver/android/sample-aut/simplelayouts/AndroidManifest.xml"
+			],
+			[
+				"accountac",
+				"App/src/com/chase/sig/android/domain/AccountActivity.java"
+			],
+			[
+				"wat",
+				"App/src/com/chase/sig/android/activity/WatchListActivity.java"
+			],
+			[
+				"epaystar",
+				"App/src/com/chase/sig/android/activity/EPayStartActivity.java"
+			],
+			[
+				"billpayscreen",
+				"NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayHomeScreen.java"
+			],
+			[
+				"billpayscr",
+				"NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayPayeeSearchResultScreen.java"
+			],
+			[
+				"billpayte",
+				"NativeDriverTests/src/com/chase/sig/android/activity/BillPayTest.java"
+			],
+			[
+				"jsoncli",
+				"App/src/com/chase/sig/android/util/JSONClient.java"
+			],
+			[
+				"quick_pay_add",
+				"App/config/template/res/layout/quick_pay_add_recipient.xml"
+			],
+			[
+				"quick_pay",
+				"App/res/layout/quick_pay_activity.xml"
+			],
+			[
+				"quick",
+				"App/res/layout/quick_pay_activity.xml"
+			],
+			[
+				"quickpayeditrecipientbase",
+				"App/src/com/chase/sig/android/activity/QuickPayEditRecipientBase.java"
+			],
+			[
+				"quicpayadd",
+				"App/src/com/chase/sig/android/activity/QuickPayAddRecipientActivity.java"
+			],
+			[
+				"billpaypayeeaddvalidationrequest",
+				"App/src/com/chase/sig/android/service/billpay/BillPayPayeeAddValidationRequest.java"
+			],
+			[
+				"billpayservi",
+				"App/src/com/chase/sig/android/service/billpay/BillPayService.java"
+			],
+			[
+				"supp",
+				"tools/CheckStyle/suppressions.xml"
+			],
+			[
+				"java",
+				"tools/CheckStyle/java.header"
+			],
+			[
+				"che",
+				"tools/CheckStyle/checkstyle.txt"
+			],
+			[
+				"impo",
+				"tools/CheckStyle/imports.txt"
+			],
+			[
+				"team",
+				"App/src/com/chase/sig/android/activity/TeamInfoActivity.java"
+			],
+			[
+				"classpa",
+				"FunctionalTests2/.classpath"
+			],
+			[
+				"class",
+				"App/.classpath"
+			],
+			[
+				"http",
+				"App/src/com/chase/sig/android/util/HttpRequest.java"
+			],
+			[
+				"billpayimage",
+				"App/src/com/chase/sig/android/activity/BillPayPayeeImageReviewActivity.java"
+			],
+			[
+				"billpaytest",
+				"NativeDriverTests/src/com/chase/sig/android/activity/BillPayTest.java"
+			],
+			[
+				"jpa",
+				"App/src/com/chase/sig/android/activity/JPActivity.java"
+			],
+			[
+				"homeai",
+				"App/src/com/chase/sig/android/activity/HomeActivity.java"
+			],
+			[
+				"billpayho",
+				"App/src/com/chase/sig/android/activity/BillPayHomeActivity.java"
+			],
+			[
+				"styled_list_row_footer_payments",
+				"App/config/template/res/layout/styled_list_row_footer_payments.xml"
+			],
+			[
+				"styled_list_row_footer",
+				"App/config/template/res/layout/styled_list_row_footer_payments.xml"
+			],
+			[
+				"styled_list_row_footer_with_sub_text",
+				"App/config/template/res/layout/styled_list_row_footer_with_sub_text.xml"
+			],
+			[
+				"styles",
+				"App/config/template/res/values/styles.xml"
+			],
+			[
+				"styled_list_row_payments",
+				"App/config/template/res/layout/styled_list_row_payments.xml"
+			],
+			[
+				"stylizedlistitemdetails",
+				"App/src/com/chase/sig/android/view/StylizedListItemDetails.java"
+			],
+			[
+				"billpaysc",
+				"FunctionalTests2/src/com/chase/sig/android/activity/screens/billpay/BillPayScreen.java"
+			],
+			[
+				"detailrow",
+				"App/src/com/chase/sig/android/activity/DetailRowId.java"
+			],
+			[
+				"address",
+				"App/config/template/res/layout/address_detail_row.xml"
+			],
+			[
+				"detail_sin",
+				"App/config/template/res/layout/detail_single_value_with_subtext.xml"
+			],
+			[
+				"detail_with_subtext",
+				"App/config/template/res/layout/detail_with_subtext.xml"
+			],
+			[
+				"billpaypayeeaddv",
+				"App/src/com/chase/sig/android/activity/BillPayPayeeAddVerifyActivity.java"
+			],
+			[
+				"billpayhomeac",
+				"App/src/com/chase/sig/android/activity/BillPayHomeActivity.java"
+			],
+			[
+				"billpaypayeesearchresultscreen",
+				"FunctionalTests2/src/com/chase/sig/android/activity/screens/billpay/BillPayPayeeSearchResultScreen.java"
+			],
+			[
+				"billpaypayeesearchresultactivity",
+				"App/src/com/chase/sig/android/activity/BillPayPayeeSearchResultActivity.java"
+			],
+			[
+				"billpaypayeesearrescree",
+				"FunctionalTests2/src/com/chase/sig/android/activity/screens/billpay/BillPayPayeeSearchResultScreen.java"
+			],
+			[
+				"billpayhomesc",
+				"FunctionalTests2/src/com/chase/sig/android/activity/screens/billpay/BillPayHomeScreen.java"
+			],
+			[
+				"paymentsandtransfersscre",
+				"FunctionalTests2/src/com/chase/sig/android/activity/screens/PaymentsAndTransfersScreen.java"
+			],
+			[
+				"billpaypayeeadd",
+				"App/src/com/chase/sig/android/activity/BillPayPayeeAddVerifyActivity.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mattlangreder/Documents/android-svn.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true
+}
