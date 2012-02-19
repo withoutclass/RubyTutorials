@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"els",
+				"else"
+			],
+			[
+				"hell",
+				"HELLO"
+			],
+			[
+				"down",
+				"downer"
+			],
+			[
+				"new",
+				"newmtd"
+			],
+			[
+				"old",
+				"oldmtd"
+			],
+			[
+				"arg",
+				"arg3"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"b",
+				"begin	begin … rescue … end"
+			],
+			[
+				"pt",
+				"puts"
+			],
+			[
+				"var",
+				"var2  (variable)"
+			],
+			[
+				"my",
+				"myString"
+			],
+			[
 				"par",
 				"parseAsDate"
 			],
@@ -68,20 +116,92 @@
 	"buffers":
 	[
 		{
-			"file": "README",
+			"file": "p011vararg.rb",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p012mtdstack.rb",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p013strcmp.rb",
+			"settings":
+			{
+				"buffer_size": 408,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/android.sublime-build",
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
 	{
-		"height": 248.0,
+		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Add..."
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
 			[
 				"syntax j",
 				"Set Syntax: JSON"
@@ -95,10 +215,6 @@
 				"Git: Blame"
 			],
 			[
-				"pac",
-				"Package Control: Install Package"
-			],
-			[
 				"gitd",
 				"Git: Diff All"
 			],
@@ -107,32 +223,8 @@
 				"Git: Diff All"
 			],
 			[
-				"git comm",
-				"Git: Commit"
-			],
-			[
-				"git add",
-				"Git: Add..."
-			],
-			[
 				"git diff",
 				"Git: Diff All"
-			],
-			[
-				"git st",
-				"Git: Status"
-			],
-			[
-				"git sta",
-				"Git: Status"
-			],
-			[
-				"gitco",
-				"Git: Commit"
-			],
-			[
-				"git ",
-				"Git: Add..."
 			],
 			[
 				"git d",
@@ -171,24 +263,8 @@
 				"Set Syntax: Git Commit Message"
 			],
 			[
-				"git",
-				"Git: Add..."
-			],
-			[
 				"git: st",
 				"Git: Status"
-			],
-			[
-				"pack",
-				"Package Control: Remove Package"
-			],
-			[
-				"pa",
-				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Package Control: Install Package"
 			],
 			[
 				"js",
@@ -215,7 +291,7 @@
 				"Snippet: text-view"
 			]
 		],
-		"width": 435.0
+		"width": 588.0
 	},
 	"console":
 	{
@@ -232,6 +308,18 @@
 	},
 	"file_history":
 	[
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p010aliasmtd.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p009mymethods1.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p008mymethods.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p007dt.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p005methods.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p004stringusage.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p003rubystrings.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p002rubynumbers.rb",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/p001hello.rb",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/mattlangreder/workspaces/github/RubyTutorials/README",
 		"/Users/mattlangreder/.ssh/id_rsa.pub",
 		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/StringUtil.java",
 		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
@@ -297,7 +385,6 @@
 		"/Users/mattlangreder/workspaces/git/Android/TestApp/src/com/chase/sig/test/unit/QuickPayManageRecipientServiceTest.java",
 		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/quickdeposit/QuickDepositService.java",
 		"/Users/mattlangreder/workspaces/git/Android/TestApp/assets/quick_pay_todo_list.json",
-		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
 		"/Volumes/Mac OS X Install ESD/._Instructions.localized",
 		"/Users/mattlangreder/workspaces/git/Android/tools/mockey_def_depot/QP - Accept Money.xml",
 		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/service/billpay/BillPayService.java",
@@ -339,7 +426,6 @@
 		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayPayeeEditScreen.java",
 		"/Users/mattlangreder/workspaces/git/Android/NativeDriverTests/src/com/chase/sig/android/activity/screens/billpay/BillPayHomeScreen.java",
 		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
-		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
 		"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
 		"/Users/mattlangreder/workspaces/git/Android/App/res/layout/quick_pay_activity.xml",
 		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/suppressions.xml",
@@ -349,17 +435,7 @@
 		"/Users/mattlangreder/workspaces/git/Android/tools/CheckStyle/suppression.txt",
 		"/Users/mattlangreder/workspaces/git/Android/App/.classpath",
 		"/Users/mattlangreder/workspaces/git/Android/FunctionalTests2/.classpath",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/HttpRequest.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/BillPayPayeeImageReviewActivity.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/BillPayPayeeAddVerifyActivity.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/BillPayHomeActivity.java",
-		"/Users/mattlangreder/workspaces/git/Android/FunctionalTests2/src/com/chase/sig/android/activity/BillPayTest.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/activity/HomeActivity.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/AbstractDetailRow.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/DetailRowWithSubItem.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/view/AddressDetailRow.java",
-		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/detail_with_subtext.xml",
-		"/Users/mattlangreder/workspaces/git/Android/App/config/template/res/layout/address_detail_row.xml"
+		"/Users/mattlangreder/workspaces/git/Android/App/src/com/chase/sig/android/util/HttpRequest.java"
 	],
 	"find":
 	{
@@ -547,28 +623,80 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README",
+					"file": "p011vararg.rb",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 332,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								332,
+								332
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "p012mtdstack.rb",
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "p013strcmp.rb",
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -620,6 +748,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"basefile.sublime-settings",
+				"/Users/mattlangreder/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings"
+			],
 			[
 				"jpact",
 				"App/src/com/chase/sig/android/activity/JPActivity.java"
@@ -1127,10 +1259,6 @@
 			[
 				"paymentsandtransfersscre",
 				"FunctionalTests2/src/com/chase/sig/android/activity/screens/PaymentsAndTransfersScreen.java"
-			],
-			[
-				"billpaypayeeadd",
-				"App/src/com/chase/sig/android/activity/BillPayPayeeAddVerifyActivity.java"
 			]
 		],
 		"width": 0.0
@@ -1150,7 +1278,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 314.0,
 	"status_bar_visible": true
 }
